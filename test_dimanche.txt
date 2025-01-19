@@ -1,0 +1,1000 @@
+  376  ls -al
+  377  git log --pretty=oneline
+  378  git diff 6cbf3a99f8cd819c3c81155fa16049027f91d0ff dbda467e74a0d261d26850c83a76b593b8a5b54a
+  379  git diff 6cbf3a99f8cd819c3c81155fa16049027f91d0ff 63f5b32f24242b26a688773aa7e9777b26862d4a
+  380  git branch
+  381  git diff main feature/testing-branch
+  382  git log
+  383  git blame Feature.js
+  384  git blame QuasarFirstFile.txt
+  385  ls -al
+  386  git blame /QuasarFirstFile/ QuasarFirstFile.txt
+  387  cd QuasarFirstFile
+  388  git blame QuasarFirstFile.txt
+  389  git add QuasarFirstFile.txt
+  390  git commit -m "Mise a jour"
+  391  git push
+  392  git add QuasarFirstFile.txt
+  393  git blame QuasarFirstFile.txt
+  394  git blame -L 1,5 QuasarFirstFile.txt
+  395  git blame -L 1,10 QuasarFirstFile.txt
+  396  git blame -L 1,50 QuasarFirstFile.txt
+  397  git blame -l QuasarFirstFile.txt
+  398  git log -p dbda467e
+  399  git blame --show-name QuasarFirstFile.txt
+  400  git blame -l QuasarFirstFile.txt
+  401  cd .git
+  402  cat HEAD
+  403  ls -al
+  404  cd refs
+  405  ls -al
+  406  cd heads
+  407  ls -al
+  408  clear
+  409  cd .git
+  410  cd ..
+  411  cat HEAD
+  412  ls -al
+  413  cd /refs/heads/main
+  414  cd /refs/heads
+  415  cat /refs/heads/main
+  416  cd
+  417  cd .git
+  418  ls -al
+  419  cat refs
+  420  cd refs
+  421  ls -al
+  422  cat refs/heads
+  423  cat /refs/heads
+  424  cat heads
+  425  cd heads
+  426  cd /refs/heads
+  427  cd main
+  428  cd
+  429  cd .git
+  430  cat /refs/heads/master
+  431  cat /refs/heads/main
+  432  apt
+  433  history
+  434  sudo apt upgrade
+  435  sudo apt remove git
+  436  sudo apt autoremove git
+  437  sudo apt full-upgrade
+  438  sudo apt upgrade
+  439  sudo apt update
+  440  sudo apt full-upgrade
+  441  sudo apt update
+  442  history
+  443  sudo apt install git-all
+  444  sudo apt full-upgrade
+  445  sudo apt upgrade
+  446  sudo apt update
+  447  sudo git config --list
+  448  sudo apt full-upgrade
+  449  sudo apt update
+  450  sudo git config --list
+  451  sudo git config user.name
+  452  sudo git config user.email
+  453  sudo git config --list
+  454  sudo git help configurer
+  455  git help configurer
+  456  git help talk
+  457  man git help talk
+  458  sudo nano /etc/gitconfig
+  459  git login
+  460  git log
+  461  sudo git log
+  462  sudo git config --list
+  463  sudo git config --stat
+  464  history > history.txt
+  465  cat history.txt
+  466  ls -al
+  467  sudo apt install git-all
+  468  cat history.txt
+  469  sudo apt install git-all
+  470  history > history.txt
+  471  history 
+  472  history.txt
+  473  history > history.txt
+  474  cat history.txt
+  475  sudo apt full-upgrade
+  476  sudo apt upgrade
+  477  sudo apt update
+  478  sudo shutdown -r now
+  479  sudo apt full-upgrade
+  480  sudo apt upgrade
+  481  sudo apt update
+  482  sudo shutdown -r now
+  483  sudo apt update
+  484  sudo apt full-upgrade
+  485  sudo apt upgrade
+  486  sudo apt update
+  487  hhhhhhhhhh
+  488  chrome
+  489  sudo apt install chrome
+  490  man dpkg
+  491  pwd
+  492  ls -al
+  493  cd ./Downloads
+  494  ls -al
+  495  cd .
+  496  cd ..
+  497  cd ./Downloads
+  498  sudo dpkg -i google-chrome-stable_current_amd64.deb
+  499  cd ..
+  500  sudo apt full-upgrade
+  501  sudo apt upgrade
+  502  sudo apt update
+  503  clear
+  504  vscode
+  505  vscode --version
+  506  code --version
+  507  sudo apt autoremove code
+  508  code
+  509  apt
+  510  sudo apt install code
+  511  sudo dpkg -i code_1.96.1-1734461655_amd64
+  512  pwd
+  513  ls 
+  514  ./Downloads
+  515  cd ./Downloads
+  516  sudo dpkg -i code_1.96.1-1734461655_amd64
+  517  sudo dpkg -i code_1.96.1-1734461655_amd64.deb
+  518  cd ..
+  519  sudo apt full-upgrade
+  520  sudo apt upgrade
+  521  sudo apt update
+  522  sudo apt full-upgrade
+  523  sudo apt update
+  524  npm i bootstrap@5.3.3
+  525  sudo apt update
+  526  sudo apt full-upgrade
+  527  sudo apt update
+  528  sudo apt full-upgrade
+  529  sudo apt update
+  530  history
+  531  sudo shutdown -r now
+  532  sudo npm i bootstrap@5.3.3
+  533  npm --version
+  534  sudo apt full-upgrade
+  535  python --version
+  536  python3 --version
+  537  sudo pip --version
+  538  sudo python -m venv myworld 
+  539  sudo python venv myworld 
+  540  sudo python3 -m venv myworld 
+  541  sudo apt install python3.10-venv
+  542  sudo python3 -m venv myworld 
+  543  sudo source myworld/bin/activate 
+  544  sudo source myworld/home/activate 
+  545  source myworld/home/activate 
+  546  sudo source home/myworld/activate 
+  547  sudo source venv/bin/activate 
+  548  ls
+  549  cd myworld
+  550  sudo source venv/bin/activate 
+  551  sudo source venv/usr/bin/activate 
+  552  cd ..
+  553  sudo python3 -m venv myworld 
+  554  cd myworld
+  555  sudo source myworld/bin/activate 
+  556  ls
+  557  sudo source pyvenv
+  558  sudo source pyvenv/bin/activate 
+  559  sudo myworld/bin/activate 
+  560  cd ..
+  561  sudo myworld/bin/activate 
+  562  sudo python3.10 -m venv myworld 
+  563  sudo myworld/bin/activate 
+  564  sudo .myworld/bin/activate 
+  565  sudo . myworld/bin/activate 
+  566  sudo apt full-upgrade
+  567  sudo apt upgrade
+  568  sudo apt update
+  569  sudo shutdown -r now
+  570  cd ..
+  571  mkdir buildDjango
+  572  cd buildDjango
+  573  sudo python3 -m venv tutorial-env
+  574  source tutorial-env/bin/activate
+  575  pip3 install django
+  576  sudo pip3 install django
+  577  pip install --upgrade pip
+  578  sudo pip install --upgrade pip
+  579  source venv/bin/activate
+  580  source tutorial-env/bin/activate
+  581  pip install django
+  582  sudo pip install django
+  583  clear
+  584  source tutorial-env/bin/activate
+  585  python3 -m venv tutorial-env
+  586  sudo python3 -m venv tutorial-env
+  587  source tutorial-env/bin/activate
+  588  pip3 install django
+  589  sudo rm -rf /home/poseidon/buildDjango/tutorial-env
+  590  python3 -m venv /home/poseidon/buildDjango/tutorial-env
+  591  source /home/poseidon/buildDjango/tutorial-env/bin/activate
+  592  python3 --version
+  593  which python3
+  594  cd /home/poseidon/buildDjango/tutorial-env/bin/python3
+  595  cd /home/poseidon/buildDjango/tutorial-env
+  596  #!/usr/bin/python3
+  597  pip install -r requirements.txt
+  598  cd ..
+  599  pip3 install django
+  600  python3 m- django --version
+  601  python3 m- django version
+  602  python3 -m pip install Django
+  603  python --version 
+  604  python3 m- django version
+  605  python3 -m pip install Django
+  606  python3 m- django version
+  607  sudo python3 m- django version
+  608  sudo python3 m- django --version
+  609  source tutorial-env/bin/activate
+  610  django --version
+  611  python3 -m pip install Django
+  612  djangoa-admin startproject my-first-project
+  613  django-admin startproject my-first-project
+  614  django-admin startproject my_first_project
+  615  python3 manage.py runserver
+  616  sudo python3 manage.py runserver
+  617  py manage.py runserver 
+  618  sudo apt install pythonpy
+  619  py manage.py runserver 
+  620  python3 manage.py runserver 
+  621  py manage.py runserver 
+  622  ls -al
+  623  pip3 install django
+  624  py -m pip install Django
+  625  python -m pip install Django
+  626  python3 -m pip install Django
+  627  sudo python3 -m pip install Django
+  628  clear
+  629  cd ..
+  630  cd ~
+  631  clear
+  632  mkdir BuildDjango
+  633  cd BuildDjango
+  634  cd ~
+  635  python --version
+  636  python3 --version
+  637  pip --version 
+  638  python -m venv myworld 
+  639  python3 -m venv myworld 
+  640  sudo python3 -m venv myworld 
+  641  cd BuildDjango
+  642  sudo python3 -m venv myworld 
+  643  source myworld/bin/activate 
+  644  python3 -m pip install Django
+  645  sudo python3 -m pip install Django
+  646  source myworld/bin/activate 
+  647  ls -al
+  648  python3 --version 
+  649  django-admin startproject my_tennis_club 
+  650  cd myworld
+  651  django-admin startproject my_tennis_club 
+  652  sudo django-admin startproject my_tennis_club 
+  653  sudo python -m pip install Django
+  654  sudo python3 -m pip install Django
+  655  cd myworld
+  656  ls -al
+  657  cd my_tennis_clud
+  658  cd my_tennis_club
+  659  py manage.py runserver 
+  660  python3 manage.py runserver 
+  661  cd ~
+  662  cd BuildDjango
+  663  mkdir BuildDjango
+  664  cd BuildDjango
+  665  cd ~
+  666  cd BuildDjango
+  667  python3 -m venv myworld 
+  668  source myworld/bin/activate 
+  669  python3 -m pip install Django
+  670  django-admin --version
+  671  cd myworld
+  672  django-admin startproject my_tennis_club
+  673  cd my_tennis_club
+  674  python3 manage.py runserver 
+  675  python3 manage.py migrate
+  676  python3 manage.py runserver 
+  677  py manage.py runserver
+  678  python3 manage.py runserver 
+  679  cd members
+  680  python3 manage.py runserver 
+  681  ls
+  682  sudo python3 manage.py runserver 
+  683  cd ..
+  684  cd ~
+  685  python3 -m pip install --user --upgrade pip
+  686  clear
+  687  python3 -m pip install --user --upgrade pip
+  688  python3 -m pip install --upgrade pip
+  689  clear
+  690  deactivate
+  691  clear
+  692  mkdir BuildDjango
+  693  cd BuildDjango
+  694  python -m venv myworld 
+  695  python3 -m venv myworld 
+  696  source myworld/bin/activate 
+  697  python3 -m pip install Django
+  698  django-admin --version
+  699  cd myworld
+  700  django-admin startproject my_tennis_club
+  701  cd my_tennis_club
+  702  py manage.py runserver 
+  703  python3 manage.py runserver 
+  704  python3 manage.py startapp members
+  705  python3 -m django startapp myapp
+  706  python3 manage.py runserver 
+  707  touch urls.py
+  708  cat urls.py
+  709  python3 manage.py runserver 
+  710  cd ~
+  711  python3
+  712  cd ~
+  713  mkdir python_syntax
+  714  cd python_syntax
+  715  touch python_syntax
+  716  cat python_syntax
+  717  cd /home/poseidon/python_syntax
+  718  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  719  cd /home/poseidon/python_syntax
+  720  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  721  cd /home/poseidon/python_syntax
+  722  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  723  cd /home/poseidon/python_syntax
+  724  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  725  cd /home/poseidon/python_syntax
+  726  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  727  cd /home/poseidon/python_syntax
+  728  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  729  cd /home/poseidon/python_syntax
+  730  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  731  clear
+  732  cd /home/poseidon/python_syntax
+  733  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  734  cd /home/poseidon/python_syntax
+  735  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  736  cd /home/poseidon/python_syntax
+  737  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  738  cd /home/poseidon/python_syntax
+  739  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  740  cd /home/poseidon/python_syntax
+  741  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  742  clear
+  743  cd /home/poseidon/python_syntax
+  744  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  745  cd ~
+  746  clear
+  747  java -version 
+  748  man dpkg
+  749  ls
+  750  cd Downloads
+  751  ls
+  752  dpkg -i jdk-23_linux-x64_bin.deb
+  753  sudo dpkg -i jdk-23_linux-x64_bin.deb
+  754  java --version
+  755  cd ~
+  756  clear
+  757  sudo apt install postgresql
+  758  sudo apt full-upgrade
+  759  sudo apt upgrade
+  760  sudo apt update
+  761  sudo shutdown -r now
+  762  clear
+  763  javac Planete.java
+  764  java -version
+  765  clear
+  766  ls -al
+  767  clear
+  768  cd /home/poseidon/python_syntax
+  769  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  770  cd /home/poseidon/python_syntax
+  771  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  772  cd /home/poseidon/python_syntax
+  773  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  774  cd /home/poseidon/python_syntax
+  775  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  776  cd /home/poseidon/python_syntax
+  777  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  778  cd /home/poseidon/python_syntax
+  779  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  780  clear
+  781  cd /home/poseidon/python_syntax
+  782  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  783  cd /home/poseidon/python_syntax
+  784  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  785  cd /home/poseidon/python_syntax
+  786  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  787  cd /home/poseidon/python_syntax
+  788  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  789  cd /home/poseidon/python_syntax
+  790  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  791  clear
+  792  cd /home/poseidon/python_syntax
+  793  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  794  cd /home/poseidon/python_syntax
+  795  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  796  cd /home/poseidon/python_syntax
+  797  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  798  clear
+  799  cd /home/poseidon/python_syntax
+  800  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  801  cd /home/poseidon/python_syntax
+  802  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  803  cd /home/poseidon/python_syntax
+  804  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  805  cd /home/poseidon/python_syntax
+  806  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  807  cd /home/poseidon/python_syntax
+  808  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  809  cd /home/poseidon/python_syntax
+  810  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  811  cd /home/poseidon/python_syntax
+  812  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  813  cd /home/poseidon/python_syntax
+  814  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  815  cd /home/poseidon/python_syntax
+  816  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  817  cd /home/poseidon/python_syntax
+  818  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  819  cd /home/poseidon/python_syntax
+  820  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  821  cd /home/poseidon/python_syntax
+  822  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  823  cd /home/poseidon/python_syntax
+  824  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  825  clear
+  826  cd /home/poseidon/python_syntax
+  827  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  828  cd /home/poseidon/python_syntax
+  829  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  830  cd /home/poseidon/python_syntax
+  831  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  832  clear
+  833  cd /home/poseidon/python_syntax
+  834  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  835  cd /home/poseidon/python_syntax
+  836  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  837  cd /home/poseidon/python_syntax
+  838  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  839  cd /home/poseidon/python_syntax
+  840  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  841  cd /home/poseidon/python_syntax
+  842  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  843  cd /home/poseidon/python_syntax
+  844  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  845  cd /home/poseidon/python_syntax
+  846  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  847  cd /home/poseidon/python_syntax
+  848  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  849  cd /home/poseidon/python_syntax
+  850  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  851  cd /home/poseidon/python_syntax
+  852  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  853  cd /home/poseidon/python_syntax
+  854  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  855  cd /home/poseidon/python_syntax
+  856  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  857  cd /home/poseidon/python_syntax
+  858  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  859  cd /home/poseidon/python_syntax
+  860  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  861  cd /home/poseidon/python_syntax
+  862  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  863  cd /home/poseidon/python_syntax
+  864  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  865  cd /home/poseidon/python_syntax
+  866  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  867  cd /home/poseidon/python_syntax
+  868  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  869  cd /home/poseidon/python_syntax
+  870  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  871  cd /home/poseidon/python_syntax
+  872  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  873  cd /home/poseidon/python_syntax
+  874  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  875  cd /home/poseidon/python_syntax
+  876  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  877  cd /home/poseidon/python_syntax
+  878  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  879  cd /home/poseidon/python_syntax
+  880  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  881  cd /home/poseidon/python_syntax
+  882  /usr/bin/python3 /home/poseidon/python_syntax/python_syntax.py
+  883  cd /home/poseidon/python_syntax
+  884  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  885  cd /home/poseidon/python_syntax
+  886  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  887  cd /home/poseidon/python_syntax
+  888  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  889  cd /home/poseidon/python_syntax
+  890  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  891  cd /home/poseidon/python_syntax
+  892  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  893  cd /home/poseidon/python_syntax
+  894  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  895  cd /home/poseidon/python_syntax
+  896  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  897  cd /home/poseidon/python_syntax
+  898  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  899  cd /home/poseidon/python_syntax
+  900  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  901  cd /home/poseidon/python_syntax
+  902  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  903  cd /home/poseidon/python_syntax
+  904  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  905  cd /home/poseidon/python_syntax
+  906  /usr/bin/python3 /home/poseidon/python_syntax/lab_test.py
+  907  cd /home/poseidon/python_syntax
+  908  /usr/bin/python3 /home/poseidon/python_syntax/lab_test2.py
+  909  cd /home/poseidon/python_syntax
+  910  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  911  cd /home/poseidon/python_syntax
+  912  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  913  cd /home/poseidon/python_syntax
+  914  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  915  cd /home/poseidon/python_syntax
+  916  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  917  cd /home/poseidon/python_syntax
+  918  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  919  cd /home/poseidon/python_syntax
+  920  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  921  cd /home/poseidon/python_syntax
+  922  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  923  clear
+  924  cd /home/poseidon/python_syntax
+  925  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  926  cd /home/poseidon/python_syntax
+  927  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  928  cd /home/poseidon/python_syntax
+  929  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  930  cd /home/poseidon/python_syntax
+  931  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  932  clear
+  933  cd /home/poseidon/python_syntax
+  934  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  935  cd /home/poseidon/python_syntax
+  936  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  937  cd /home/poseidon/python_syntax
+  938  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  939  cd /home/poseidon/python_syntax
+  940  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  941  cd /home/poseidon/python_syntax
+  942  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  943  cd /home/poseidon/python_syntax
+  944  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  945  cd /home/poseidon/python_syntax
+  946  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  947  cd /home/poseidon/python_syntax
+  948  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  949  cd /home/poseidon/python_syntax
+  950  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  951  cd /home/poseidon/python_syntax
+  952  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  953  cd /home/poseidon/python_syntax
+  954  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  955  cd /home/poseidon/python_syntax
+  956  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  957  cd /home/poseidon/python_syntax
+  958  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  959  cd /home/poseidon/python_syntax
+  960  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  961  cd /home/poseidon/python_syntax
+  962  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  963  clear
+  964  cd /home/poseidon/python_syntax
+  965  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  966  cd /home/poseidon/python_syntax
+  967  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  968  cd /home/poseidon/python_syntax
+  969  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  970  cd /home/poseidon/python_syntax
+  971  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  972  cd /home/poseidon/python_syntax
+  973  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  974  cd /home/poseidon/python_syntax
+  975  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  976  cd /home/poseidon/python_syntax
+  977  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  978  clear
+  979  cd /home/poseidon/python_syntax
+  980  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  981  cd /home/poseidon/python_syntax
+  982  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  983  cd /home/poseidon/python_syntax
+  984  /usr/bin/python3 /home/poseidon/python_syntax/lab_test3.py
+  985  cd /home/poseidon/python_syntax
+  986  /usr/bin/python3 /home/poseidon/python_syntax/lab_test4.py
+  987  clear
+  988  cd /home/poseidon/python_syntax
+  989  /usr/bin/python3 /home/poseidon/python_syntax/lab_test4.py
+  990  cd /home/poseidon/python_syntax
+  991  /usr/bin/python3 /home/poseidon/python_syntax/lab_test4.py
+  992  cd /home/poseidon/python_syntax
+  993  /usr/bin/python3 /home/poseidon/python_syntax/lab_test5.py
+  994  cd /home/poseidon/python_syntax
+  995  /usr/bin/python3 /home/poseidon/python_syntax/lab_test5.py
+  996  cd /home/poseidon/python_syntax
+  997  /usr/bin/python3 /home/poseidon/python_syntax/lab_test5.py
+  998  cd /home/poseidon/python_syntax
+  999  /usr/bin/python3 /home/poseidon/python_syntax/lab_test5.py
+ 1000  cd /home/poseidon/python_syntax
+ 1001  /usr/bin/python3 /home/poseidon/python_syntax/lab_test5.py
+ 1002  cd /home/poseidon/python_syntax
+ 1003  /usr/bin/python3 /home/poseidon/python_syntax/lab_test5.py
+ 1004  cd /home/poseidon/python_syntax
+ 1005  /usr/bin/python3 /home/poseidon/python_syntax/lab_test5.py
+ 1006  cd /home/poseidon/python_syntax
+ 1007  /usr/bin/python3 /home/poseidon/python_syntax/lab_test5.py
+ 1008  sudo apt update
+ 1009  sudo apt install openjdk-23-jdk
+ 1010  sudo apt full-upgrade
+ 1011  sudo apt update
+ 1012  clear
+ 1013  sudo apt full-upgrade
+ 1014  sudo apt upgrade
+ 1015  sudo apt update
+ 1016  python3 -m ensurepip --default-pip
+ 1017  python3 -m pip --version
+ 1018  clear
+ 1019  python3
+ 1020  pip install matplotlib
+ 1021  pip install random
+ 1022  sudo apt full-upgrade
+ 1023  sudo apt upgrade
+ 1024  sudo apt update
+ 1025  pip install seaborn
+ 1026  sudo pip install seaborn
+ 1027  cd /home/poseidon/python_syntax
+ 1028  /usr/bin/python3 /home/poseidon/python_syntax/lab_module.py
+ 1029  cd /home/poseidon/python_syntax
+ 1030  /usr/bin/python3 /home/poseidon/python_syntax/lab_module.py
+ 1031  cd /home/poseidon/python_syntax
+ 1032  /usr/bin/python3 /home/poseidon/python_syntax/lab_module.py
+ 1033  cd /home/poseidon/python_syntax
+ 1034  /usr/bin/python3 /home/poseidon/python_syntax/lab_module.py
+ 1035  cd /home/poseidon/python_syntax
+ 1036  /usr/bin/python3 /home/poseidon/python_syntax/lab_module.py
+ 1037  clear
+ 1038  cd /home/poseidon/python_syntax
+ 1039  /usr/bin/python3 /home/poseidon/python_syntax/lab_module.py
+ 1040  cd /home/poseidon/python_syntax
+ 1041  /usr/bin/python3 /home/poseidon/python_syntax/lab_module.py
+ 1042  clear
+ 1043  cd /home/poseidon/python_syntax
+ 1044  /usr/bin/python3 /home/poseidon/python_syntax/lab_module.py
+ 1045  cd /home/poseidon/python_syntax
+ 1046  /usr/bin/python3 /home/poseidon/python_syntax/lab_module.py
+ 1047  clear
+ 1048  cd /home/poseidon/python_syntax
+ 1049  /usr/bin/python3 /home/poseidon/python_syntax/lab_module.py
+ 1050  clear
+ 1051  cd /home/poseidon/python_syntax
+ 1052  /usr/bin/python3 /home/poseidon/python_syntax/lab_module.py
+ 1053  cd /home/poseidon/python_syntax
+ 1054  /usr/bin/python3 /home/poseidon/python_syntax/lab_module.py
+ 1055  cd /home/poseidon/python_syntax
+ 1056  /usr/bin/python3 /home/poseidon/python_syntax/lab_module.py
+ 1057  cd /home/poseidon/python_syntax
+ 1058  /usr/bin/python3 /home/poseidon/python_syntax/lab_module.py
+ 1059  cd /home/poseidon/python_syntax
+ 1060  /usr/bin/python3 /home/poseidon/python_syntax/lab_module.py
+ 1061  cd /home/poseidon/python_syntax
+ 1062  /usr/bin/python3 /home/poseidon/python_syntax/operations_test.py
+ 1063  cd /home/poseidon/python_syntax
+ 1064  /usr/bin/python3 /home/poseidon/python_syntax/operations_test.py
+ 1065  cd /home/poseidon/python_syntax
+ 1066  /usr/bin/python3 /home/poseidon/python_syntax/operations_test.py
+ 1067  cd /home/poseidon/python_syntax
+ 1068  /usr/bin/python3 /home/poseidon/python_syntax/operations_test.py
+ 1069  cd /home/poseidon/python_syntax
+ 1070  /usr/bin/python3 /home/poseidon/python_syntax/lab_test8.py
+ 1071  cd /home/poseidon/python_syntax
+ 1072  /usr/bin/python3 /home/poseidon/python_syntax/lab_test8.py
+ 1073  cd /home/poseidon/python_syntax
+ 1074  /usr/bin/python3 /home/poseidon/python_syntax/lab_test8.py
+ 1075  cd /home/poseidon/python_syntax
+ 1076  /usr/bin/python3 /home/poseidon/python_syntax/lab_test8.py
+ 1077  cd /home/poseidon/python_syntax
+ 1078  /usr/bin/python3 /home/poseidon/python_syntax/lab_test8.py
+ 1079  cd /home/poseidon/python_syntax
+ 1080  /usr/bin/python3 /home/poseidon/python_syntax/lab_test8.py
+ 1081  cd /home/poseidon/python_syntax
+ 1082  /usr/bin/python3 /home/poseidon/python_syntax/lab_test8.py
+ 1083  cd /home/poseidon/python_syntax
+ 1084  /usr/bin/python3 /home/poseidon/python_syntax/lab_test8.py
+ 1085  cd /home/poseidon/python_syntax
+ 1086  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1087  cd /home/poseidon/python_syntax
+ 1088  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1089  cd /home/poseidon/python_syntax
+ 1090  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1091  cd /home/poseidon/python_syntax
+ 1092  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1093  cd /home/poseidon/python_syntax
+ 1094  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1095  clear
+ 1096  cd /home/poseidon/python_syntax
+ 1097  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1098  cd /home/poseidon/python_syntax
+ 1099  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1100  cd /home/poseidon/python_syntax
+ 1101  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1102  cd /home/poseidon/python_syntax
+ 1103  /usr/bin/python3 /home/poseidon/python_syntax/filechanges.py
+ 1104  clear
+ 1105  cd /home/poseidon/python_syntax
+ 1106  /usr/bin/python3 /home/poseidon/python_syntax/filechanges.py
+ 1107  cd /home/poseidon/python_syntax
+ 1108  /usr/bin/python3 /home/poseidon/python_syntax/filechanges.py
+ 1109  clear
+ 1110  cd /home/poseidon/python_syntax
+ 1111  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1112  clear
+ 1113  cd /home/poseidon/python_syntax
+ 1114  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1115  clear
+ 1116  cd /home/poseidon/python_syntax
+ 1117  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1118  clear
+ 1119  cd /home/poseidon/python_syntax
+ 1120  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1121  cd /home/poseidon/python_syntax
+ 1122  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1123  clear
+ 1124  cd /home/poseidon/python_syntax
+ 1125  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1126  clear
+ 1127  cd /home/poseidon/python_syntax
+ 1128  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1129  cd /home/poseidon/python_syntax
+ 1130  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1131  cd /home/poseidon/python_syntax
+ 1132  /usr/bin/python3 /home/poseidon/python_syntax/reloads.py
+ 1133  clear
+ 1134  python3 -m pip install --upgrade pip setuptools wheel
+ 1135  sudo python3 -m pip install --upgrade pip setuptools wheel
+ 1136  python3 -m venv 7_janvier_venv
+ 1137  python3 -m pip install --upgrade pip setuptools wheel
+ 1138  cd /home/poseidon/python_syntax
+ 1139  /usr/bin/python3 /home/poseidon/python_syntax/text1.py
+ 1140  cd /home/poseidon/python_syntax
+ 1141  /usr/bin/python3 /home/poseidon/python_syntax/text1.py
+ 1142  cd /home/poseidon/python_syntax
+ 1143  /usr/bin/python3 /home/poseidon/python_syntax/text1.py
+ 1144  cd /home/poseidon/python_syntax
+ 1145  /usr/bin/python3 /home/poseidon/python_syntax/text1.py
+ 1146  cd /home/poseidon/python_syntax
+ 1147  /usr/bin/python3 /home/poseidon/python_syntax/text1.py
+ 1148  cd /home/poseidon/python_syntax
+ 1149  /usr/bin/python3 /home/poseidon/python_syntax/text1.py
+ 1150  pip install pytest
+ 1151  yes
+ 1152  sudo pip install pytest
+ 1153  https://pip.pypa.io/warnings/venv
+ 1154  sudo pip install pytest
+ 1155  pip install pytest
+ 1156  sudo apt full-upgrade
+ 1157  sudo apt update
+ 1158  sudo apt full-upgrade
+ 1159  sudo apt update
+ 1160  sudo apt install intellij
+ 1161  sudo apt update
+ 1162  pip install gaphor
+ 1163  gaphor
+ 1164  ls 
+ 1165  cd Download
+ 1166  cd Downloads
+ 1167  ls
+ 1168  dpkg -i modelio-open-source-5.4.1_amd64.deb
+ 1169  sudo dpkg -i modelio-open-source-5.4.1_amd64.deb
+ 1170  python3 -m pytest test_arithmetics.py
+ 1171  clear
+ 1172  python3 -m pytest test_arithmetics.py
+ 1173  cd /home/poseidon/python_syntax
+ 1174  /usr/bin/python3 /home/poseidon/python_syntax/arithmetics.py
+ 1175  cd /home/poseidon/python_syntax
+ 1176  /usr/bin/python3 /home/poseidon/python_syntax/test_arithmetics.py
+ 1177  python3 -m pytest test_arithmetics.py
+ 1178  clear
+ 1179  python3 -m pytest test_arithmetics.py
+ 1180  clear
+ 1181  python3 -m pytest test_arithmetics.py
+ 1182  cd /home/poseidon/python_syntax
+ 1183  /usr/bin/python3 /home/poseidon/python_syntax/arithmetics.py
+ 1184  sudo apt full-upgrade
+ 1185  sudo apt update
+ 1186  sudo apt full-upgrade
+ 1187  sudo apt update
+ 1188  gaphor
+ 1189  cd Downloads
+ 1190  ls
+ 1191  sudo dpkg -i StarUML_6.3.1_amd64.deb
+ 1192  cd ..
+ 1193  sudo apt install plantuml
+ 1194  plantuml
+ 1195  sudo apt full-upgrade
+ 1196  sudo apt update
+ 1197  sudo apt full-upgrade
+ 1198  cd /home/poseidon/python_syntax
+ 1199  /usr/bin/python3 /home/poseidon/python_syntax/decomposition.py
+ 1200  cd /home/poseidon/python_syntax
+ 1201  /usr/bin/python3 /home/poseidon/python_syntax/decomposition.py
+ 1202  sudo apt update && sudo apt upgrade
+ 1203  sudo apt install curl -y
+ 1204  curl -s https://api.github.com/repos/jgraph/drawio-desktop/releases/latest | grep browser_download_url | grep 'amd64\.deb' | cut -d '"' -f 4 | wget -i -
+ 1205  sudo apt -f install ./drawio-amd64-*.deb
+ 1206  sudo apt update
+ 1207  sudo apt install snapd
+ 1208  sudo snap install drawio
+ 1209  sudo apt full-upgrade
+ 1210  sudo apt upgrade
+ 1211  sudo apt update
+ 1212  sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
+ 1213  ls
+ 1214  cd Downloads
+ 1215  ls
+ 1216  cd software
+ 1217  cd Software
+ 1218  android-studio/bin/ 
+ 1219  ls
+ 1220  cd ~
+ 1221  ls
+ 1222  cd android-studio/bin/ 
+ 1223  cd android-studio
+ 1224  cd Downloads
+ 1225  ls
+ 1226  cd Software
+ 1227  ls
+ 1228  cd ndroid-studio-2024.2.2.13-linux
+ 1229  cd android-studio-2024.2.2.13-linux
+ 1230  cd android-studio-2024.2.2.13-linux/bin
+ 1231  cd bin
+ 1232  cd android-studio
+ 1233  cd bin
+ 1234  studio.sh
+ 1235  cd android-studio/bin/
+ 1236  sudo studio.sh
+ 1237  cd ~
+ 1238  cd Software
+ 1239  cd Downloads
+ 1240  cd Software
+ 1241  ls
+ 1242  sudo tar -xzf IntelliJ IDEA-2024.3.1.1.tar.gz
+ 1243  ls
+ 1244  cd Empty
+ 1245  ls
+ 1246  tar -xzf IntelliJ IDEA-2024.3.1.1.tar.gz
+ 1247  ls
+ 1248  cd Empty_in
+ 1249  tar -xzf IntelliJ IDEA-2024.3.1.1.tar.gz
+ 1250  git status
+ 1251  touch gittest.txt
+ 1252  git status
+ 1253  sudo apt full-upgrade
+ 1254  sudo apt upgrade
+ 1255  sudo apt update
+ 1256  sudo git config --list
+ 1257  git init
+ 1258  la -a
+ 1259  git config --list
+ 1260  git status
+ 1261  git add git_lab.txt
+ 1262  git status
+ 1263  git commit git_lab.txt
+ 1264  git commit -m git_lab.txt is just added
+ 1265  git commit -m "git_lab.txt is just added"
+ 1266  git status
+ 1267  git diff --cached
+ 1268  git diff
+ 1269  git status
+ 1270  git branch
+ 1271  git checkout
+ 1272  git branch
+ 1273  git push -u origin second-test
+ 1274  git push -u second-test
+ 1275  git checkout main branch
+ 1276  git status
+ 1277  git log --oneline --decorate
+ 1278  git checkout master
+ 1279  git
+ 1280  git branch
+ 1281  git branch --list
+ 1282  git branch third-test
+ 1283  git branch --list
+ 1284  git checkout third-test
+ 1285  git status
+ 1286  git push -u QuasarFirstFile
+ 1287  cd ~
+ 1288  clear
+ 1289  git config --list
+ 1290  sudo apt remove --purge git
+ 1291  sudo apt autoremove
+ 1292  git --version
+ 1293  clear
+ 1294  git config --list
+ 1295  ls -al
+ 1296  cd vs_code
+ 1297  ls -al
+ 1298  mkdir MyNewProject
+ 1299  cd MyNewProject
+ 1300  sudo apt upgrade
+ 1301  sudo apt update
+ 1302  sudo apt install git
+ 1303  cd MyFirstProject
+ 1304  mkdir MyFirstProject
+ 1305  cd MyFirstProject
+ 1306  git config --list
+ 1307  git config --global user.name "Cebien AUGUSTIN"
+ 1308  git config --list
+ 1309  git branch
+ 1310  git branch --list
+ 1311  git log --oneline --decorate
+ 1312  git checkout master
+ 1313  git push -u origin 
+ 1314  git push --set-upstream origin master
+ 1315  git checkout -b main
+ 1316  git log --oneline --decorate
+ 1317  git branch --list
+ 1318  git checkout -b main
+ 1319  git push -u origin main
+ 1320  git remote add origin https://github.com/QuasarGalactic/git_now.git
+ 1321  git push -u origin main
+ 1322  git log
+ 1323* 
+ 1324  git push -u origin second-branch
+ 1325  git add .
+ 1326  git commit -m "Initial commit"
+ 1327  ls -al
+ 1328  git init
+ 1329  ls -al
+ 1330  git commit -m "Initial commit"
+ 1331  git push -u origin second-branch
+ 1332  clear
+ 1333  git status
+ 1334  git log
+ 1335  git config --list
+ 1336  git config --global user.email "runauguste@gmail.com"
+ 1337  git push -u origin second-branch
+ 1338  git config --list
+ 1339  ls -al
+ 1340  git config --list
+ 1341  git status
+ 1342  git add
+ 1343  git clone https://github.com/QuasarGalactic/git_now.git
+ 1344  ls -al
+ 1345  cd git_now
+ 1346  ls -al
+ 1347  git status
+ 1348  git log --oneline --decorate
+ 1349  git status
+ 1350* git 
+ 1351  git checkout -B feature/lesson
+ 1352  git branch
+ 1353  touch feature.txt
+ 1354  git add feature.txt
+ 1355  git commit -m "Ajouter un nouveau fichier  feature.txt"
+ 1356  git push -u origin feature/lesson
+ 1357  clear
+ 1358  git branch
+ 1359  git checkout -B main
+ 1360  git branch
+ 1361  git checkout -B third/branch
+ 1362  git branch
+ 1363  git checkout -B feature/lesson
+ 1364  git branch
+ 1365  touch test_dimanche.txt
+ 1366  git add test_dimanche.txt
+ 1367  git commit -m "Fichier  test du dimanche"
+ 1368  git status
+ 1369  git push -u origin feature/lesson
+ 1370  git status
+ 1371  git checkout -B main
+ 1372  git pull
+ 1373  ls
+ 1374  history
+ 1375  history > test_dimanche.txt
